@@ -45,6 +45,6 @@
   <!-- Redefine Authoring dashboard-->
   <import>war:/conf/authoring/authoring-configuration.xml</import>
 
-  <import>war:/conf/welcome-screens/account-setup/account-setup-configuration.xml</import>
+  <!--<import>war:/conf/welcome-screens/account-setup/account-setup-configuration.xml</import>-->
   <import>war:/conf/integ-ecms-social/ecms-social-configuration.xml</import>
 </configuration>
